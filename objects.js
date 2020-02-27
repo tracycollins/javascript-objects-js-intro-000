@@ -1,4 +1,4 @@
-var playlist = {}
+var playlist = new Object();
 playlist["coltrane"] = "naima"
 
 function updatePlaylist(playlist, artistName, songTitle) {
