@@ -1,0 +1,3 @@
+var playlist = {
+  "coltrane": "naima"
+}
